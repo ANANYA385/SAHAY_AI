@@ -180,12 +180,10 @@ python manage.py runserver
 
 ---
 
-## 🎯 **Built by Soham Tripathy**
+
 
 **Sahay AI** - Your intelligent career companion powered by AI.
 
-## 📫 Contact
 
-- **Email:** [soham4net@gmail.com](mailto:soham4net@gmail.com)  
-- **LinkedIn:** [/linkedin.com/in/sohamtripathy/](https://www.linkedin.com/in/sohamtripathy/)  
-- **GitHub:** [github.com/SOHAM-3T](https://github.com/SOHAM-3T)  
+
+ 
