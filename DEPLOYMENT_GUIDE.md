@@ -715,4 +715,3 @@ Your Sahay AI application is now ready for deployment! Choose the platform that 
 
 ---
 
-*Built with ❤️ by Soham Tripathy* 
